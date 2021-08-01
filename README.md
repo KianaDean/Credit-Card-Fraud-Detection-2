@@ -23,6 +23,8 @@ The dataset was simulated using Python. The code used is from the [Fraud Detecti
 3. Model Assessment - looked at the AUC of each model to determine which model would be the best to use. In this case, it was Logistic Regression.
 4. Created a PowerBI dashboard to show metrics of the data and transactions
 
+Tools Used: Python, R, PowerBI
+
 ## Credit Card Fraud Dashboard
 ![CCTransaction Metrics](https://github.com/KianaDean/Credit-Card-Fraud-Detection-2/blob/main/images/FraudDetectionDashboard.PNG)
 
